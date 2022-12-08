@@ -12,7 +12,7 @@ import java.time.ZoneId;
 @NoArgsConstructor
 @AllArgsConstructor
 
-public class BaseDomain implements Entity{
+public class BaseDomain implements Entity {
 
 	@NonNull
 	private String id;

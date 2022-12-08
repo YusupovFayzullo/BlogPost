@@ -1,4 +1,4 @@
-package uz.pdp.blogpost.backend.services;
+package uz.pdp.blogpost.backend.services.base;
 
 import uz.pdp.blogpost.backend.criteria.GenericCriteria;
 import uz.pdp.blogpost.backend.dtos.DTO;
